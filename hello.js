@@ -1,3 +1,8 @@
 function hello() {
-  return "Hello World!";
+  return "Greetings Earthlings!";
 }
+
+function greet() {
+  return 'Hello!';
+}
+
